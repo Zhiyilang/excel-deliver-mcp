@@ -56,3 +56,12 @@ MIT — 见 [LICENSE](LICENSE)。
 ## English
 
 A zero-dependency (Python stdlib only, no `openpyxl`/`pandas`) MCP server exposing 5 Excel/CSV delivery tools — merge, clean, pivot, split, recon — to any MCP-capable LLM agent. Self-contained xlsx read/write implemented over the `csv` module. Run `python3 server.py` for stdio MCP, `python3 eval_mcp.py` for a full self-test (5/0). MIT licensed.
+
+---
+
+## 💝 赞助 / 打赏
+
+如果这个项目对你有帮助，欢迎通过 **爱发电** 请我喝杯咖啡 ☕  
+👉 https://afdian.com/a/Zhiyilang
+
+> GitHub Sponsors 在中国大陆暂不支持个人账号，赞助统一走爱发电。
