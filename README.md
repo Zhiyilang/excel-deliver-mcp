@@ -67,6 +67,8 @@ A zero-dependency (Python stdlib only, no `openpyxl`/`pandas`) MCP server exposi
 > GitHub Sponsors 在中国大陆暂不支持个人账号，赞助统一走爱发电。
 
 ---
-## 📚 我的实战课程
-**《影刀RPA到AI Agent工程师：大专生的实战转型笔记》** —— 5 课可直接抄的作业（含可复制代码模板 + 真实接单复盘）。
-在 **小报童 / 小红书** 搜索「支一郎」即可购买；完整大纲见 [GitHub Pages](https://Zhiyilang.github.io/#course)。
+## 💝 赞助 / 支持
+如果这个项目对你有帮助，欢迎到 [爱发电](https://afdian.com/a/Zhiyilang) 请我喝杯咖啡 ☕
+你的支持是我持续维护开源、做更多实用工具的动力。
+
+。
